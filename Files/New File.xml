@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<ArrayOfToy xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Toy>
+    <Type>Doll</Type>
+    <Age>6</Age>
+    <Price>3000</Price>
+  </Toy>
+  <Toy>
+    <Type>Car</Type>
+    <Age>3</Age>
+    <Price>5000</Price>
+  </Toy>
+  <Toy>
+    <Type>Doll</Type>
+    <Age>2</Age>
+    <Price>8888</Price>
+  </Toy>
+</ArrayOfToy>

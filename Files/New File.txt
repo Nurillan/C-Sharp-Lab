@@ -1,0 +1,4 @@
+Doll, Min age 6, Price — 3000.
+Ball, Min age 3, Price — 1000.
+Cubes, Min age 2, Price — 8000.
+Car, Min age 2, Price — 450.
